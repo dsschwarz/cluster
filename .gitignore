@@ -1,0 +1,4 @@
+cluster/obj/*
+cluster/bin/*
+.vs/*
+cluster.sln
